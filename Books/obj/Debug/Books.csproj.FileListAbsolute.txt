@@ -1,0 +1,172 @@
+E:\1270321-AMIRUL MOMENIN\Module-06\project\Books\Books\bin\Debug\BooksDb.mdf
+E:\1270321-AMIRUL MOMENIN\Module-06\project\Books\Books\bin\Debug\BooksDb_log.ldf
+E:\1270321-AMIRUL MOMENIN\Module-06\project\Books\Books\bin\Debug\Books.exe.config
+E:\1270321-AMIRUL MOMENIN\Module-06\project\Books\Books\bin\Debug\Books.exe
+E:\1270321-AMIRUL MOMENIN\Module-06\project\Books\Books\bin\Debug\Books.pdb
+E:\1270321-AMIRUL MOMENIN\Module-06\project\Books\Books\obj\Debug\Books.csproj.AssemblyReference.cache
+E:\1270321-AMIRUL MOMENIN\Module-06\project\Books\Books\obj\Debug\Books.csproj.SuggestedBindingRedirects.cache
+E:\1270321-AMIRUL MOMENIN\Module-06\project\Books\Books\obj\Debug\Books.MainForm.resources
+E:\1270321-AMIRUL MOMENIN\Module-06\project\Books\Books\obj\Debug\Books.Properties.Resources.resources
+E:\1270321-AMIRUL MOMENIN\Module-06\project\Books\Books\obj\Debug\Books.Tag.TagView.resources
+E:\1270321-AMIRUL MOMENIN\Module-06\project\Books\Books\obj\Debug\Books.csproj.GenerateResource.cache
+E:\1270321-AMIRUL MOMENIN\Module-06\project\Books\Books\obj\Debug\Books.csproj.CoreCompileInputs.cache
+E:\1270321-AMIRUL MOMENIN\Module-06\project\Books\Books\obj\Debug\Books.exe
+E:\1270321-AMIRUL MOMENIN\Module-06\project\Books\Books\obj\Debug\Books.pdb
+E:\1270321-AMIRUL MOMENIN\Module-06\project\Books\Books\obj\Debug\Books.Tag.TagsAdd.resources
+E:\1270321-AMIRUL MOMENIN\Module-06\project\Books\Books\obj\Debug\Books.Tag.TagsEdit.resources
+E:\1270321-AMIRUL MOMENIN\Module-06\project\Books\Books\obj\Debug\Books.Publishers.PublishersView.resources
+E:\1270321-AMIRUL MOMENIN\Module-06\project\Books\Books\obj\Debug\Books.Publishers.PublishersAdd.resources
+E:\1270321-AMIRUL MOMENIN\Module-06\project\Books\Books\obj\Debug\Books.Publishers.PublisherEdit.resources
+C:\Users\SALAMHOSSEN\Desktop\project\Books\Books\bin\Debug\BooksDb.mdf
+C:\Users\SALAMHOSSEN\Desktop\project\Books\Books\bin\Debug\BooksDb_log.ldf
+C:\Users\SALAMHOSSEN\Desktop\project\Books\Books\bin\Debug\Books.exe.config
+C:\Users\SALAMHOSSEN\Desktop\project\Books\Books\bin\Debug\Books.exe
+C:\Users\SALAMHOSSEN\Desktop\project\Books\Books\bin\Debug\Books.pdb
+C:\Users\SALAMHOSSEN\Desktop\project\Books\Books\obj\Debug\Books.csproj.AssemblyReference.cache
+C:\Users\SALAMHOSSEN\Desktop\project\Books\Books\obj\Debug\Books.csproj.SuggestedBindingRedirects.cache
+C:\Users\SALAMHOSSEN\Desktop\project\Books\Books\obj\Debug\Books.MainForm.resources
+C:\Users\SALAMHOSSEN\Desktop\project\Books\Books\obj\Debug\Books.Properties.Resources.resources
+C:\Users\SALAMHOSSEN\Desktop\project\Books\Books\obj\Debug\Books.Publishers.PublisherEdit.resources
+C:\Users\SALAMHOSSEN\Desktop\project\Books\Books\obj\Debug\Books.Publishers.PublishersAdd.resources
+C:\Users\SALAMHOSSEN\Desktop\project\Books\Books\obj\Debug\Books.Publishers.PublishersView.resources
+C:\Users\SALAMHOSSEN\Desktop\project\Books\Books\obj\Debug\Books.Tag.TagsAdd.resources
+C:\Users\SALAMHOSSEN\Desktop\project\Books\Books\obj\Debug\Books.Tag.TagsEdit.resources
+C:\Users\SALAMHOSSEN\Desktop\project\Books\Books\obj\Debug\Books.Tag.TagView.resources
+C:\Users\SALAMHOSSEN\Desktop\project\Books\Books\obj\Debug\Books.csproj.GenerateResource.cache
+C:\Users\SALAMHOSSEN\Desktop\project\Books\Books\obj\Debug\Books.csproj.CoreCompileInputs.cache
+C:\Users\SALAMHOSSEN\Desktop\project\Books\Books\obj\Debug\Books.exe
+C:\Users\SALAMHOSSEN\Desktop\project\Books\Books\obj\Debug\Books.pdb
+C:\Users\SALAMHOSSEN\Desktop\project\Books\Books\obj\Debug\Books.Book.BookView.resources
+C:\Users\SALAMHOSSEN\Desktop\project\Books\Books\obj\Debug\Books.Book.BookAdd.resources
+C:\Users\SALAMHOSSEN\Desktop\project\Books\Books\obj\Debug\Books.Authors.AuthorView.resources
+C:\Users\SALAMHOSSEN\Desktop\project\Books\Books\obj\Debug\Books.Authors.AuthorAdd.resources
+C:\Users\SALAMHOSSEN\Desktop\project\Books\Books\obj\Debug\Books.Authors.AuthorEdit.resources
+C:\Users\SALAMHOSSEN\Desktop\project\Books\Books\obj\Debug\Books.Book.BookEdit.resources
+D:\R52\M5\Projects\1270321\Books\bin\Debug\Books.exe.config
+D:\R52\M5\Projects\1270321\Books\bin\Debug\Books.exe
+D:\R52\M5\Projects\1270321\Books\bin\Debug\Books.pdb
+D:\R52\M5\Projects\1270321\Books\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\R52\M5\Projects\1270321\Books\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\R52\M5\Projects\1270321\Books\bin\Debug\CrystalDecisions.Shared.dll
+D:\R52\M5\Projects\1270321\Books\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\R52\M5\Projects\1270321\Books\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\R52\M5\Projects\1270321\Books\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\R52\M5\Projects\1270321\Books\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\R52\M5\Projects\1270321\Books\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\R52\M5\Projects\1270321\Books\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\R52\M5\Projects\1270321\Books\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\R52\M5\Projects\1270321\Books\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\R52\M5\Projects\1270321\Books\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\R52\M5\Projects\1270321\Books\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\R52\M5\Projects\1270321\Books\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\R52\M5\Projects\1270321\Books\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\R52\M5\Projects\1270321\Books\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\R52\M5\Projects\1270321\Books\bin\Debug\stdole.dll
+D:\R52\M5\Projects\1270321\Books\obj\Debug\Books.csproj.AssemblyReference.cache
+D:\R52\M5\Projects\1270321\Books\obj\Debug\Books.csproj.SuggestedBindingRedirects.cache
+D:\R52\M5\Projects\1270321\Books\obj\Debug\Books.Authors.AuthorAdd.resources
+D:\R52\M5\Projects\1270321\Books\obj\Debug\Books.Authors.AuthorEdit.resources
+D:\R52\M5\Projects\1270321\Books\obj\Debug\Books.Authors.AuthorView.resources
+D:\R52\M5\Projects\1270321\Books\obj\Debug\Books.Book.BookAdd.resources
+D:\R52\M5\Projects\1270321\Books\obj\Debug\Books.Book.BookEdit.resources
+D:\R52\M5\Projects\1270321\Books\obj\Debug\Books.Book.BookView.resources
+D:\R52\M5\Projects\1270321\Books\obj\Debug\Books.MainForm.resources
+D:\R52\M5\Projects\1270321\Books\obj\Debug\Books.Properties.Resources.resources
+D:\R52\M5\Projects\1270321\Books\obj\Debug\Books.Publishers.PublisherEdit.resources
+D:\R52\M5\Projects\1270321\Books\obj\Debug\Books.Publishers.PublishersAdd.resources
+D:\R52\M5\Projects\1270321\Books\obj\Debug\Books.Publishers.PublishersView.resources
+D:\R52\M5\Projects\1270321\Books\obj\Debug\Books.Reports.Report1.resources
+D:\R52\M5\Projects\1270321\Books\obj\Debug\Books.Tag.TagsAdd.resources
+D:\R52\M5\Projects\1270321\Books\obj\Debug\Books.Tag.TagsEdit.resources
+D:\R52\M5\Projects\1270321\Books\obj\Debug\Books.Tag.TagView.resources
+D:\R52\M5\Projects\1270321\Books\obj\Debug\Books.csproj.GenerateResource.cache
+D:\R52\M5\Projects\1270321\Books\obj\Debug\Books.csproj.CoreCompileInputs.cache
+D:\R52\M5\Projects\1270321\Books\obj\Debug\Books.csproj.CopyComplete
+D:\R52\M5\Projects\1270321\Books\obj\Debug\Books.exe
+D:\R52\M5\Projects\1270321\Books\obj\Debug\Books.pdb
+D:\R52\M5\Projects\1270321\Books\obj\Debug\Books.Reports.Report2.resources
+D:\R54\M5\Projects\13\Books\bin\Debug\Books.exe.config
+D:\R54\M5\Projects\13\Books\bin\Debug\Books.exe
+D:\R54\M5\Projects\13\Books\bin\Debug\Books.pdb
+D:\R54\M5\Projects\13\Books\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\R54\M5\Projects\13\Books\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\R54\M5\Projects\13\Books\bin\Debug\CrystalDecisions.Shared.dll
+D:\R54\M5\Projects\13\Books\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\R54\M5\Projects\13\Books\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\R54\M5\Projects\13\Books\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\R54\M5\Projects\13\Books\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\R54\M5\Projects\13\Books\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\R54\M5\Projects\13\Books\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\R54\M5\Projects\13\Books\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\R54\M5\Projects\13\Books\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\R54\M5\Projects\13\Books\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\R54\M5\Projects\13\Books\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\R54\M5\Projects\13\Books\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\R54\M5\Projects\13\Books\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\R54\M5\Projects\13\Books\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\R54\M5\Projects\13\Books\bin\Debug\stdole.dll
+D:\R54\M5\Projects\13\Books\obj\Debug\Books.csproj.AssemblyReference.cache
+D:\R54\M5\Projects\13\Books\obj\Debug\Books.csproj.SuggestedBindingRedirects.cache
+D:\R54\M5\Projects\13\Books\obj\Debug\Books.Authors.AuthorAdd.resources
+D:\R54\M5\Projects\13\Books\obj\Debug\Books.Authors.AuthorEdit.resources
+D:\R54\M5\Projects\13\Books\obj\Debug\Books.Authors.AuthorView.resources
+D:\R54\M5\Projects\13\Books\obj\Debug\Books.Book.BookAdd.resources
+D:\R54\M5\Projects\13\Books\obj\Debug\Books.Book.BookEdit.resources
+D:\R54\M5\Projects\13\Books\obj\Debug\Books.Book.BookView.resources
+D:\R54\M5\Projects\13\Books\obj\Debug\Books.MainForm.resources
+D:\R54\M5\Projects\13\Books\obj\Debug\Books.Properties.Resources.resources
+D:\R54\M5\Projects\13\Books\obj\Debug\Books.Publishers.PublisherEdit.resources
+D:\R54\M5\Projects\13\Books\obj\Debug\Books.Publishers.PublishersAdd.resources
+D:\R54\M5\Projects\13\Books\obj\Debug\Books.Publishers.PublishersView.resources
+D:\R54\M5\Projects\13\Books\obj\Debug\Books.Reports.Report1.resources
+D:\R54\M5\Projects\13\Books\obj\Debug\Books.Reports.Report2.resources
+D:\R54\M5\Projects\13\Books\obj\Debug\Books.Tag.TagsAdd.resources
+D:\R54\M5\Projects\13\Books\obj\Debug\Books.Tag.TagsEdit.resources
+D:\R54\M5\Projects\13\Books\obj\Debug\Books.Tag.TagView.resources
+D:\R54\M5\Projects\13\Books\obj\Debug\Books.csproj.GenerateResource.cache
+D:\R54\M5\Projects\13\Books\obj\Debug\Books.csproj.CoreCompileInputs.cache
+D:\R54\M5\Projects\13\Books\obj\Debug\Books.csproj.CopyComplete
+D:\R54\M5\Projects\13\Books\obj\Debug\Books.exe
+D:\R54\M5\Projects\13\Books\obj\Debug\Books.pdb
+G:\R54\M5\Projects\1273624\Books\bin\Debug\Books.exe.config
+G:\R54\M5\Projects\1273624\Books\bin\Debug\Books.exe
+G:\R54\M5\Projects\1273624\Books\bin\Debug\Books.pdb
+G:\R54\M5\Projects\1273624\Books\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\R54\M5\Projects\1273624\Books\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\R54\M5\Projects\1273624\Books\bin\Debug\CrystalDecisions.Shared.dll
+G:\R54\M5\Projects\1273624\Books\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\R54\M5\Projects\1273624\Books\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\R54\M5\Projects\1273624\Books\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\R54\M5\Projects\1273624\Books\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\R54\M5\Projects\1273624\Books\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\R54\M5\Projects\1273624\Books\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\R54\M5\Projects\1273624\Books\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\R54\M5\Projects\1273624\Books\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\R54\M5\Projects\1273624\Books\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\R54\M5\Projects\1273624\Books\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\R54\M5\Projects\1273624\Books\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\R54\M5\Projects\1273624\Books\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\R54\M5\Projects\1273624\Books\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\R54\M5\Projects\1273624\Books\bin\Debug\stdole.dll
+G:\R54\M5\Projects\1273624\Books\obj\Debug\Books.csproj.AssemblyReference.cache
+G:\R54\M5\Projects\1273624\Books\obj\Debug\Books.Authors.AuthorAdd.resources
+G:\R54\M5\Projects\1273624\Books\obj\Debug\Books.Authors.AuthorEdit.resources
+G:\R54\M5\Projects\1273624\Books\obj\Debug\Books.Authors.AuthorView.resources
+G:\R54\M5\Projects\1273624\Books\obj\Debug\Books.Book.BookAdd.resources
+G:\R54\M5\Projects\1273624\Books\obj\Debug\Books.Book.BookEdit.resources
+G:\R54\M5\Projects\1273624\Books\obj\Debug\Books.Book.BookView.resources
+G:\R54\M5\Projects\1273624\Books\obj\Debug\Books.MainForm.resources
+G:\R54\M5\Projects\1273624\Books\obj\Debug\Books.Properties.Resources.resources
+G:\R54\M5\Projects\1273624\Books\obj\Debug\Books.Publishers.PublisherEdit.resources
+G:\R54\M5\Projects\1273624\Books\obj\Debug\Books.Publishers.PublishersAdd.resources
+G:\R54\M5\Projects\1273624\Books\obj\Debug\Books.Publishers.PublishersView.resources
+G:\R54\M5\Projects\1273624\Books\obj\Debug\Books.Reports.Report1.resources
+G:\R54\M5\Projects\1273624\Books\obj\Debug\Books.Reports.Report2.resources
+G:\R54\M5\Projects\1273624\Books\obj\Debug\Books.Tag.TagsAdd.resources
+G:\R54\M5\Projects\1273624\Books\obj\Debug\Books.Tag.TagsEdit.resources
+G:\R54\M5\Projects\1273624\Books\obj\Debug\Books.Tag.TagView.resources
+G:\R54\M5\Projects\1273624\Books\obj\Debug\Books.csproj.GenerateResource.cache
+G:\R54\M5\Projects\1273624\Books\obj\Debug\Books.csproj.CoreCompileInputs.cache
+G:\R54\M5\Projects\1273624\Books\obj\Debug\Books.csproj.CopyComplete
+G:\R54\M5\Projects\1273624\Books\obj\Debug\Books.exe
+G:\R54\M5\Projects\1273624\Books\obj\Debug\Books.pdb
